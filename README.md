@@ -4,5 +4,5 @@
 `git clone https://github.com/Dobi-Vanish/2L3.2`
 
 Перейдите в склонированную папку, и пропишите поочерёдно:
-`make build`
+`make build`  
 `make docker-up`
